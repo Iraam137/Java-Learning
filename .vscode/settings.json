@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "Collections-In-Java/Linked_List",
+        "Collections In Java/Linked_List",
+        "Collections_In_java/Linked_List"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
